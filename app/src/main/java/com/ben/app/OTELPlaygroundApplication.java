@@ -1,13 +1,13 @@
-package com.ben.demo;
+package com.ben.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class OTELPlaygroundApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(OTELPlaygroundApplication.class, args);
 	}
 
 }

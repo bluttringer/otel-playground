@@ -1,6 +1,6 @@
-package com.ben.demo.web;
+package com.ben.app.web;
 
-import com.ben.demo.dto.SomeEntity;
+import com.ben.app.dto.SomeEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

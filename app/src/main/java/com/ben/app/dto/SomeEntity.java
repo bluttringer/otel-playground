@@ -1,4 +1,4 @@
-package com.ben.demo.dto;
+package com.ben.app.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

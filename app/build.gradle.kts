@@ -36,5 +36,5 @@ tasks.withType<Test> {
 }
 
 tasks.named<BootBuildImage>("bootBuildImage") {
-	imageName.set("ben/demo")
+	imageName.set("ben/otel-playground-service")
 }
